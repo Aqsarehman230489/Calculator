@@ -1,2 +1,2 @@
 # Calculator
-Simple mobile design calculator 
+Calculator using HTML-CSS-JAVASCRIPT  
